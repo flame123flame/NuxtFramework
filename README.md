@@ -1,6 +1,6 @@
-# y
+# NuxtFramework
 
-> yest
+> NuxtFramework
 
 ## Build Setup
 
